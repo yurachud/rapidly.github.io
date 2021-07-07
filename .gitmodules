@@ -4,3 +4,6 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/yurachud/yurachud.github.io.git
+[submodule "release"]
+	path = release
+	url = https://github.com/yurachud/yurachud.github.io.git
