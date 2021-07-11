@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://yurachud.github.io/"
+baseURL = "https://yurachud.github.io"
 title = "Copper Hugo - Software and SAAS landing template"
 theme = "copper-hugo"
 # post pagination

@@ -2,8 +2,8 @@
 ############################ Banner ##################################
 banner:
   enable : true
-  title : "Give Your customers human feeling touch **Like Never Before**"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, seddiam nonumy eirmod tempor invidunt ut labore et dolore magna"
+  title : "Payment Processing **as a Service**"
+  content : "Explore the benefits of non-card payment processing as a service: software, hardware, security, compliance, high availability, backups - all taken care of by us and available to you through a set of APIs"
   image : "images/screenshots/banner-shot.png"
   video:
     enable : true
@@ -42,44 +42,44 @@ clients_logo_slider:
 ########################## How it works #########################
 homepage_tab:
   enable : true
-  title : "How **it Works**"
+  title : "Integrate quickly, **pay as you grow**"
   content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed."
   tablist:
   # tab item
-  - name : "Task Management"
-    title : "Task **Management**"
+  - name : "Quick integration"
+    title : "**Quick** integration"
     image : "images/screenshots/how-it-works-1.jpg"
-    content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos et accusam et justo duo dolores et ea rebum satet"
+    content : "Integrate quickly: no software or hardware to buy, no servers to maintain, no compliance audits to pass. Integrate with our APIs and we will ensure the rest to power your payments"
     button:
       enable : true
       label : "View More"
       link : "how-it-works"
       
   # tab item
-  - name : "Built In Chat"
-    title : "Built In **Chat**"
+  - name : "Security and compliance"
+    title : "Security and compliance"
     image : "images/screenshots/03.png"
-    content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos et accusam et justo duo dolores et ea rebum satet"
+    content : "We ensure security and compliance with payment networks’ requirements, so you don’t have to. Whether this is SWIFT CSP, transition to ISO messages or SEPA Rulebook changes - we’ve got it covered for you"
     button:
       enable : true
       label : "View More"
       link : "how-it-works"
       
   # tab item
-  - name : "Project Analytics"
-    title : "Project **Analytics**"
+  - name : "High availability"
+    title : "High availability"
     image : "images/screenshots/04.png"
-    content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos et accusam et justo duo dolores et ea rebum satet"
+    content : "High availability, disaster recovery, backups and everything else it takes to ensure your customers don’t face interruptions, when using your services"
     button:
       enable : true
       label : "View More"
       link : "how-it-works"
       
   # tab item
-  - name : "Task Collaboration"
-    title : "Task **Collaboration**"
+  - name : "Volume based pricing"
+    title : "Volume based pricing"
     image : "images/screenshots/how-it-works-1.jpg"
-    content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos et accusam et justo duo dolores et ea rebum satet"
+    content : "Fully aligned incentives: we don’t charge high license or fixed maintenance fees. You pay only when your customers start making payments and we grow together on a pay-as-you-go model"
     button:
       enable : true
       label : "View More"
@@ -89,12 +89,12 @@ homepage_tab:
 ############################## Tools in Use ########################
 tools:
   enable : true
-  title : "Integrate the **tools you already use**"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed."
+  title : "End-to-end processing of **non-card payments**"
+  content : "Connect to major **European and Global** payment rails, such as **SEPA, SWIFT, BACS and Faster Payments**, without the need of buying expensive software licenses, ensuring data center security, and maintaining compliance with ever changing requirements."
   logos:
   - "images/tools/01.png"
   - "images/tools/02.png"
-  - "images/tools/03.png"
+  - "images/tools/sepa.png"
   - "images/tools/04.png"
   - "images/tools/05.png"
   - "images/tools/06.png"
