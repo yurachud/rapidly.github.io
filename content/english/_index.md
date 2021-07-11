@@ -3,7 +3,7 @@
 banner:
   enable : true
   title : "Payment Processing **as a Service**"
-  content : "Explore the benefits of non-card payment processing as a service: software, hardware, security, compliance, high availability, backups - all taken care of by us and available to you through a set of APIs"
+  content : "Explore the **benefits of non-card payment processing** as a service: software, hardware, security, compliance, high availability, backups - **all taken care of and available to you** through a set of APIs"
   image : "images/screenshots/banner-shot.png"
   video:
     enable : true
