@@ -100,7 +100,7 @@ tools:
   - "images/tools/06.png"
   - "images/tools/07.png"
   - "images/tools/08.png"
-  - "images/tools/05.png"
+  # - "images/tools/05.png"
 
   
 

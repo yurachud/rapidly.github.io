@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/"
+baseURL = "https://demo.gethugothemes.com/copper"
 title = "Copper Hugo - Software and SAAS landing template"
 theme = "copper-hugo"
 # post pagination
